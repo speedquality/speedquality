@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @speedquaility
+- 👋 Hi, I’m @speedquality
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on web development
